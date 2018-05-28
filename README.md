@@ -1,5 +1,5 @@
-#Weather-App
--> Android MVP 
--> Clean Architecture  
--> Retrofit 
--> ButterKnife
+#Weather-App </br>
+-> Android MVP </br>
+-> Clean Architecture </br> 
+-> Retrofit </br>
+-> ButterKnife </br>
