@@ -3,7 +3,7 @@
 -> Clean Architecture </br> 
 -> Retrofit </br>
 -> ButterKnife </br>
--> openweathermap.org API 
+-> openweathermap.org API </br>
 -> Android Alarm </br>
 -> GPS Location </br>
 -> RecyclerView </br>
