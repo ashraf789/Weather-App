@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather App</string>
+    <string name="internet_connection_required">Data connection required</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="location_access_required">This feature required location access, please turn on your gps</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="api_key_required">sorry according to google new 2018 policy to use google API we need to add billing method but i don\'t have any credit card so i can\'t get API key if you can just add API key on google_maps_api.xml file</string>
 </resources>
