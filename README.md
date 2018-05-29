@@ -3,3 +3,9 @@
 -> Clean Architecture </br> 
 -> Retrofit </br>
 -> ButterKnife </br>
+-> openweathermap.org API 
+-> Android Alarm </br>
+-> GPS Location </br>
+-> RecyclerView </br>
+-> Picasso  </br>
+-> Broadcast Receiver </br>
