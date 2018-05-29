@@ -11,4 +11,4 @@
 -> Broadcast Receiver </br>
 
 
-<a href="https://imgur.com/l4LdDgX"><img src="https://i.imgur.com/l4LdDgX.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/l4LdDgX.png" title="source: imgur.com" height="300" width="400" />
