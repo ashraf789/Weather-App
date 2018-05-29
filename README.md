@@ -8,7 +8,11 @@
 -> GPS Location </br>
 -> RecyclerView </br>
 -> Picasso  </br>
--> Broadcast Receiver </br>
+-> Broadcast Receiver </br> </br> </br>
 
 
 <img src="https://i.imgur.com/l4LdDgX.png" title="source: imgur.com" height="500" width="400" />
+<img src="https://i.imgur.com/Rf8Tsc4.png" title="source: imgur.com" height="500" width="400" />
+</br>
+<img src="https://i.imgur.com/9f9hxn3.png" title="source: imgur.com" height="500" width="400" />
+<img src="https://i.imgur.com/KsAfSh7.png" title="source: imgur.com" height="500" width="400" />
