@@ -21,4 +21,4 @@
 </br>
 
 ## License
-This project is licensed under the MIT License - see the [[https://github.com/ashraf789/Weather-App/blob/master/LICENSE|License File]] for details
+This project is licensed under the MIT License - see the [License File](LICENSE) for details
