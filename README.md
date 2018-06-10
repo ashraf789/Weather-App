@@ -18,3 +18,7 @@
 </br> </br>
 ###### Notification
 <img src="https://i.imgur.com/KsAfSh7.png" title="source: imgur.com" height="500" width="400" />
+</br>
+
+## License
+This project is licensed under the MIT License - see the [[https://github.com/ashraf789/Weather-App/blob/master/LICENSE|License File]] for details
